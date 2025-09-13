@@ -1,0 +1,1 @@
+This is a first html project where I will build a simple html recipe website, the website will later be touched up and stylized by ccs
